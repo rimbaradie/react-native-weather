@@ -22,8 +22,7 @@ A mobile-friendly **React Native weather app** that shows **current weather** an
 - Custom reusable components
 
 ---
-## Screenshots
-![weather](https://github.com/user-attachments/assets/ecabdfce-a92d-4285-baef-734efa6e8479){:width="400px"}
+
 
 
 ## Installation
